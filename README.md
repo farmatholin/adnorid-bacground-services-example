@@ -1,2 +1,2 @@
-# adnorid-background-services-example
+# android-background-services-example
 Vladislav Marin
