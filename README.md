@@ -1,1 +1,2 @@
-# adnorid-bacground-services-example 
+# adnorid-background-services-example
+Vladislav Marin
